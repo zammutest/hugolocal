@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Local test site for Zammu</title>
+    <link>http://hugolocal.zammu.in/</link>
+    <description>Recent content on Hugo Local test site for Zammu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2016 13:52:38 +0530</lastBuildDate>
+    <atom:link href="http://hugolocal.zammu.in/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello world</title>
+      <link>http://hugolocal.zammu.in/hello-world/</link>
+      <pubDate>Wed, 20 Jan 2016 13:52:38 +0530</pubDate>
+      
+      <guid>http://hugolocal.zammu.in/hello-world/</guid>
+      <description>
+
+&lt;h1 id=&#34;hello-world:aa77bbfd89a7b0ff10def205b9c08d51&#34;&gt;Hello World&lt;/h1&gt;
+
+&lt;p&gt;This is an awesome post&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-ruby&#34;&gt;puts :here_is_ruby
+
+10.times { puts &#39;Yayya&#39; }
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
